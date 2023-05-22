@@ -3,3 +3,6 @@ Emoji
 Colours
 Typing option
 vibrant
+.....
+dark pancil
+vedio option
